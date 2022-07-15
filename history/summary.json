@@ -22,7 +22,7 @@
     "url": "https://www.properstar.ch/suisse/geneve/acheter/appartement-maison",
     "icon": "https://favicons.githubusercontent.com/www.properstar.ch",
     "slug": "properstar-ch-search",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 2964,
     "timeMonth": 2964,
     "timeYear": 2964,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-15": 0
+    }
   }
 ]
