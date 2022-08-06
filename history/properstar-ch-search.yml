@@ -1,7 +1,7 @@
 url: https://www.properstar.ch/suisse/geneve/acheter/appartement-maison
-status: up
-code: 200
-responseTime: 2456
-lastUpdated: 2022-08-05T23:01:01.898Z
+status: down
+code: 504
+responseTime: 3532
+lastUpdated: 2022-08-06T10:22:31.466Z
 startTime: Tue Jul 12 2022 11:05:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
