@@ -2,7 +2,7 @@
   {
     "name": "Properstar.ch homepage",
     "url": "https://www.properstar.ch",
-    "icon": "https://favicons.githubusercontent.com/www.properstar.ch",
+    "icon": "https://icons.duckduckgo.com/ip3/www.properstar.ch.ico",
     "slug": "properstar-ch-homepage",
     "status": "up",
     "uptime": "99.85%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.85%",
-    "time": 1346,
-    "timeDay": 1352,
-    "timeWeek": 1334,
-    "timeMonth": 1449,
-    "timeYear": 1346,
+    "time": 1341,
+    "timeDay": 901,
+    "timeWeek": 1342,
+    "timeMonth": 1432,
+    "timeYear": 1341,
     "dailyMinutesDown": {
       "2022-09-07": 178
     }
@@ -22,7 +22,7 @@
   {
     "name": "Properstar.ch search",
     "url": "https://www.properstar.ch/suisse/geneve/acheter/appartement-maison",
-    "icon": "https://favicons.githubusercontent.com/www.properstar.ch",
+    "icon": "https://icons.duckduckgo.com/ip3/www.properstar.ch.ico",
     "slug": "properstar-ch-search",
     "status": "up",
     "uptime": "99.77%",
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.77%",
-    "time": 3438,
-    "timeDay": 2697,
-    "timeWeek": 2316,
-    "timeMonth": 2747,
-    "timeYear": 3438,
+    "time": 3414,
+    "timeDay": 981,
+    "timeWeek": 2275,
+    "timeMonth": 2735,
+    "timeYear": 3414,
     "dailyMinutesDown": {
       "2022-09-07": 181,
       "2022-08-24": 20,
