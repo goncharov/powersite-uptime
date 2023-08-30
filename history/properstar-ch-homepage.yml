@@ -1,7 +1,7 @@
 url: https://www.properstar.ch
-status: up
-code: 200
-responseTime: 1907
-lastUpdated: 2023-08-29T23:01:01.720Z
+status: down
+code: 502
+responseTime: 29487
+lastUpdated: 2023-08-30T14:53:03.178Z
 startTime: 2022-07-12T11:05:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
