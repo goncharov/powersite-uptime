@@ -2,7 +2,7 @@
 owner: goncharov # Your GitHub organization or username, where this repository lives
 repo: powersite-uptime # The name of this repository
 
-user-agent: $UA
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0
 
 sites:
   - name: Properstar.ch homepage
